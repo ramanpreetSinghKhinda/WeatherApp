@@ -2,7 +2,7 @@
 Simple but very useful weather app for Android
 
 #### Screenshots
-![screen] (https://cloud.githubusercontent.com/assets/11690982/24333415/8a34067a-120c-11e7-9c14-d2207d5f4aaa.png)
+![screen](https://cloud.githubusercontent.com/assets/11690982/24333415/8a34067a-120c-11e7-9c14-d2207d5f4aaa.png)
 
 #### Features:
 * Material Design
